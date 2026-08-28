@@ -35,7 +35,7 @@ New OS
 Ubuntu Desktop 26.04 LTS
 
 
-The original 1TB HDD was replaced with a SATA SSD as part of a prior hardware repurposing project. The old HDD was repurposed as external backup storage for a Jellyfin Media Server via USB enclosure — documented separately in this portfolio.
+The original 1TB HDD was replaced with a SATA SSD as part of a prior hardware repurposing project. The old HDD was repurposed as external backup storage for a Jellyfin Media Server via USB enclosure. Documented separately in this portfolio.
 
 
 Lab Environment
@@ -45,7 +45,7 @@ Machine
 Role
 OS
 SYKES-DESKTOP
-Primary workstation — all lab operations
+Primary workstation. All lab operations
 Windows 11
 SYKESHOMESERVER
 Docker, VMs, Pi-hole, Jellyfin, Pelican Panel
@@ -192,8 +192,8 @@ Etcher had written GPT — active command requires MBR
 Run convert mbr after clean, before create partition primary
 5
 Windows format prompts after Rufus flash
-Windows cannot read Linux filesystems — flags them as inaccessible
-Dismissed prompts without formatting — flash was successful, proceeded to boot
+Windows cannot read Linux filesystems. Flags them as inaccessible
+Dismissed prompts without formatting flash was successful, proceeded to boot
 6
 Wi-Fi not detected during installation
 MT7630E driver not included in live installer environment
