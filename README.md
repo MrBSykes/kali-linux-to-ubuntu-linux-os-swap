@@ -10,7 +10,7 @@
 
 ## Overview
 
-This project documents the migration of a dedicated physical lab machine — an **ASUS X550ZA laptop** — from Kali Linux to **Ubuntu Desktop 26.04 LTS (Resolute Raccoon)**. The goal: establish a real, bare-metal Linux environment that I can SSH into remotely from my primary workstation and use as a daily driver for building IT infrastructure skills.
+This project documents the migration of a dedicated physical lab machine, an **ASUS X550ZA laptop** from Kali Linux to **Ubuntu Desktop 26.04 LTS (Resolute Raccoon)**. The goal: establish a real, bare-metal Linux environment that I can SSH into remotely from my primary workstation and use as a daily driver for building IT infrastructure skills.
 
 This is **not a virtual machine**. The deliberate choice to work on physical hardware exposes real-world challenges that VMs never will — BIOS boot configuration, driver compatibility, network interface management, and hardware-level troubleshooting. Those are exactly the skills that matter in data center and IT infrastructure roles.
 
