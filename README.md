@@ -1,4 +1,4 @@
-# 🐧 Linux Lab Machine — Swapping Kali Linux for Ubuntu
+# 🐧 Linux Lab Machine: Swapping Kali Linux for Ubuntu
 ### Building a Dedicated Physical Linux Environment for IT Infrastructure Learning
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-26.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
